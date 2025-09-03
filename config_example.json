@@ -1,0 +1,11 @@
+{
+  "file_path": "10106-20231219-ROAAS-Landing.xlsx",
+  "sheet_name": "A",
+  "data_start_row": "2",
+  "target_ip": "127.0.0.1",
+  "target_port": "5005",
+  "send_interval": "0.1",
+  "prefix_hex": "55AA0000",
+  "suffix_hex": "0000",
+  "int_columns": "Speed_Ref_Int\nGross_Weight_Int\nGear_Status_Int"
+}
